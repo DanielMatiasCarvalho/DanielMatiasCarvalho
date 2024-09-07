@@ -21,7 +21,7 @@ Greetings! <br />
 I am <b>Daniel Carvalho</b>
 I am a Junior Software Engineer from Portugal 🇵🇹 <br />
 I've have a BSc. of Computer Science & Engineering in <a href="https://tecnico.ulisboa.pt"> IST </a> <br />
-Currently doin my Master's in Computer Sicene & Engineering, specializing in <b>Artificial Intelligence</b> and <b>Data Science</b> at <a href="https://tecnico.ulisboa.pt"> IST </a>
+Currently doing my Master's in Computer Sicene & Engineering, specializing in <b>Artificial Intelligence</b> and <b>Data Science</b> at <a href="https://tecnico.ulisboa.pt"> IST </a>
 I am always eager to learn the new technologies and how to use to build great products. <br />
 Feel free to contact me if something interests you.
 <br/><br/> 
